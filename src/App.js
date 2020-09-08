@@ -9,6 +9,7 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+import './'
 
 class App extends Component {
 
@@ -18,7 +19,6 @@ class App extends Component {
       foo: 'bar',
       resumeData: {}
     };
-
   }
 
   getResumeData(){
@@ -38,7 +38,11 @@ class App extends Component {
 
   componentDidMount(){
     this.getResumeData();
+
   }
+
+  
+
 
   render() {
     return (

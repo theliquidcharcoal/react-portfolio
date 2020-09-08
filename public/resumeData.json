@@ -1,40 +1,42 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Parth Patel",
+    "occupation": "ReactJS Developer && Mentor && New Media Designer",
+    "description": "",
+    "image": "lc_profile_image.jpeg",
+    "bio": "Hello! My name is Parth and I live in alluring San Francisco, CA. I am deeply in love with the views of the city from marina greens. Other than that, I love coffee roasters in the city and have tried almost every coffee roaster in the city. I first felt my love for front-end designing and development when I was designing my final project for my under grad. After, that I am going deep and deep everyday with designing for digital world. In the previous years I have had the opportunity to work on various kind of designing jobs like Graphics Designing, UX, UI, Branding, Typography, and of course web and app designing. I recently worked with Saint Frank coffee for my typography and rebranding project. I also, worked on a UX designing project for an TravelApp. I am looking for an Internship opportunity in San Francisco, CA." ,
+    
+    "contactmessage": "I am looking for Job opportunity based on ReactJS in San Francisco, CA. If you are looking for a detail oriented and perfection oriented in all aspects of UX designer or front-end designer and developer. Let’s Connect!",
+
+    "email": "liquidcharcoal@icloud.com",
+    "phone": "+1-732-593-9577",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "2230 Lobard St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94123"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.liquidcharcoal.com",
+    "resumedownload": "http://liquidcharcoal.com/resume.php",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/liquidcharcoal",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/liquidcharcoal/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/theliquidcharcoal/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/theliquidcharcoal",
         "className": "fa fa-github"
       }
     ]
@@ -43,30 +45,24 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Academy of Art University",
+        "degree": "Masters in New Media Technology",
+        "graduated": "May 2019",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Fusion Apps",
+        "title": "Digital Designer && Front-End Developer",
+        "years": "Oct 2019 - Present",
+        "description": "Designing and coding beautiful web content based on various cutting edge technologies."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
         "name": "CSS",
@@ -77,15 +73,15 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Designing/Prototyping Tools (Sketch, Figma, Adobe CC, Invision Principle)",
+        "level": "95%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "SASS",
         "level": "80%"
       }
     ]
@@ -93,47 +89,31 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "PetGuard - A human centered application",
+        "category": "PetGuard is a next-generation device with an application to take care of your dog.",
+        "image": "petguard.jpeg",
+        "url": "http://liquidcharcoal.com/portfolio/caseStudy/petGuard/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Malack - A mobile application.",
+        "category": "To build a hypothetical animal tracking app using HTML, CSS, and JavaScript.",
+        "image": "malack.jpeg",
+        "url": "http://liquidcharcoal.com/portfolio/caseStudy/malack/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
+        "title": "Bezier Control with leap motion",
+        "category": "New Media Technology project using Leap Motion",
+        "image": "baziercontrol.jpeg",
         "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
+        "text": "I had the pleasure to be Parth's group project member in the UX Design Immersive course. He is a really passionate team member with a strong curiosity and front-end skills. Moreover, he has a keen eye on technology development, so always give a piece of good advice and comment about the project we were working together :)",
+        "user": "Chloe (Mihyun) Kim"
+      }    
     ]
   }
 }

@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import '../utilities/lc-text-rotation';
+
+
 
 class Header extends Component {
   render() {
@@ -33,14 +36,18 @@ class Header extends Component {
       </nav>
 
       <div className="row banner">
-         <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
-            <hr />
-            <ul className="social">
-               {networks}
-            </ul>
-         </div>
+        <video id="videoBG" className="video-bg" poster="./images/header-background.jpg" autoPlay muted loop>
+            <source src="./images/banner-video.mp4" type="video/mp4" /> 
+        </video>
+
+        <div className="banner-text">
+          <h1 className="responsive-headline">I'm <span class="txt-rotate" data-type-speed="200" data-type="[ &quot;Web Designer.&quot;, &quot;Front-end Freak.&quot;, &quot;Graphics Designer.&quot;, &quot;Nature Lover.&quot;, &quot;Out Doorsy.&quot;, &quot;Tech Enthusiast.&quot;, &quot;Care Taker.&quot;,&quot;Loving.&quot;, &quot;Latte Lover.&quot;, &quot;Chai Specialist.&quot;, &quot;Smart Human.&quot; ]"></span></h1>
+          <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+          <hr />
+          <ul className="social">
+              {networks}
+          </ul>
+        </div>
       </div>
 
       <p className="scrolldown">
@@ -53,3 +60,4 @@ class Header extends Component {
 }
 
 export default Header;
+
